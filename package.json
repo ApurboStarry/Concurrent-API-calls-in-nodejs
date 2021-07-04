@@ -1,0 +1,19 @@
+{
+  "name": "concurrent_api_call_example",
+  "version": "1.0.0",
+  "description": "This is an example of how to make concurrent API calls in nodejs/expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Hasin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
